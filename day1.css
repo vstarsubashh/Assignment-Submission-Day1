@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+     height:400px;
+     width:1100px;
+     background-color: red;
+}
+.card{
+    height:200px;
+    width:15%;
+    background-color:grey;
+    display: inline-block;
+}
